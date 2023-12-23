@@ -1,4 +1,15 @@
-# DIO - Trilha .NET - Fundamentos
+# Construindo um Sistema para um Estacionamento com C#
+
+<div align="center">
+
+![estacionamento](https://github.com/DevMarlonR/desafio-dio-dotnetfundamentos/assets/150947803/c9a71a96-cd77-4af0-a910-e523902b1811) 
+<p><a href="https://giphy.com/gifs/season-3-the-simpsons-3x5-l2JdX4pVy7jjuQ97a">GIPHY</a></p>
+</div>
+
+
+### No bootcamp Programação C# com CRM Dynamics, para finalizar a etapa Primeiros Passos na Linguagem de Programação C# foi dado um projeto a realizar um sistema para um estacionamento, onde o desafio era:
+
+### DIO - Trilha .NET - Fundamentos
 www.dio.me
 
 ## Desafio de projeto
